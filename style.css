@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    max-width: 1200px;
+    margin: auto;
+}
+.section-title{
+    text-align: center;
+    color: black;
+}
+.section-title__text{
+    font-family: Kaushan Script;
+    margin-bottom: 16px;
+}
+.section-title__title{
+    font-family: montserrat;
+    font-weight: 700;
+    font-variant: small-caps;
+    margin-bottom: 36px;
+}
+.section-title__underline{
+    width: 60px;
+    display: block;
+    border-bottom: 2px solid #F38181;
+    margin: auto;
+}
+.mogo-section-text{
+    font-family: roboto;
+    text-align: center;
+    margin-top: 40px;
+    color: #B6B6B6;
+    margin-bottom: 27px;
+}
+.mogo__galery{
+    display: flex;
+    justify-content: space-between;
+}
+.mogo__galery-title{
+    display: block;
+    font-family: montserrat;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    font-variant: small-caps;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.mogo__galery-subtitle{
+    display: block;
+    text-align: center;
+    font-family: roboto;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    color: #B6B6B6;
+    font-style: italic;
+}
